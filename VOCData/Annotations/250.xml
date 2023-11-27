@@ -1,0 +1,26 @@
+<annotation>
+	<folder>caise</folder>
+	<filename>250.jpg</filename>
+	<path>D:\zaopian\caise\250.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>termite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2103</xmin>
+			<ymin>2302</ymin>
+			<xmax>2197</xmax>
+			<ymax>2436</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,6 @@
+train: D:/2023/论文/yolov5-master/yolov5-master/VOCData/dataSet_path/train.txt
+val: D:/2023/论文/yolov5-master/yolov5-master/VOCData/dataSet_path/val.txt
+test: D:/2023/论文/yolov5-master/yolov5-master /VOCData/dataSet_path/test.txt
+
+# class names
+names: ["termite"]

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>6.jpg</filename>
+	<path>D:\matlab\image\img\6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>termite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1675</xmin>
+			<ymin>755</ymin>
+			<xmax>1753</xmax>
+			<ymax>830</ymax>
+		</bndbox>
+	</object>
+</annotation>
